@@ -7,7 +7,7 @@
   "author": "TJ Holowaychuk <tj@vision-media.ca> (http://tjholowaychuk.com)",
   "dependencies": {
     "qs": "0.5.1",
-    "formidable": "git://github.com/tenthbitinc/node-formidable.git#a3d7402cd9156c1b05af0e7cb0c835da4f3b11af",
+    "formidable": "git://github.com/tenthbitinc/node-formidable.git#ff7014efc5444a306d18b648b8d81535b2047763",
     "crc": "0.2.0",
     "cookie": "0.0.4",
     "bytes": "0.0.1",
